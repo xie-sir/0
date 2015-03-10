@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>作業</title>
+    </head>
+<body>
+<body background="DOG.jpeg">
+<a href="/Users/mac037/Desktop/110110614/110110614_2.html ">我的超連結</a>
+<table border=1>
+        　<tr>
+        　　<th>名字</th>
+        　　<th>謝汯恩</th>
+        　</tr>
+        　<tr>
+        　　<td>性別</td>
+        　　<td>男</td>
+        　</tr>
+        　<tr>
+        　　<td>生日</td>
+        　　<td>5.27</td>
+        　</tr> 
+        　<tr>
+        　　<td>學校</td>
+        　　<td>國立金門大學</td>
+        　</tr>
+        </table>
+</body>
+</html>
+
